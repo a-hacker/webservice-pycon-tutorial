@@ -1,1 +1,1 @@
-web: python3 -m webservice-pycon-tutorial
+web: python3 -m webservice
